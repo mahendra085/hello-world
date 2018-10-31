@@ -1,2 +1,2 @@
 # hello-world
-This is start of learn new things by fun
+This is node js repository to learn node by fun
